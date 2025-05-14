@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  MKSC.cpp
+  MKSCDlg.cpp
+  正在生成代码...
+E:\File\language\C++\250509MFCYC\packages\Microsoft.Web.WebView2.1.0.3240.44\build\native\x64\WebView2Loader.dll : warning LNK4003: 无效的库格式；已忽略库
+  MKSC.vcxproj -> E:\File\language\C++\250509MFCYC\x64\Debug\MKSC.exe
